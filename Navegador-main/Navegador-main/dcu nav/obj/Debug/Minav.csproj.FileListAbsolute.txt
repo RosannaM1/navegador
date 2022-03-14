@@ -1,0 +1,7 @@
+C:\Users\Rosanna M\Downloads\Navegador-main\Navegador-main\Mondongo Browser\obj\Debug\Minav.csproj.AssemblyReference.cache
+C:\Users\Rosanna M\Downloads\Navegador-main\Navegador-main\Mondongo Browser\obj\Debug\Mondongo_Browser.DCUnavegador.resources
+C:\Users\Rosanna M\Downloads\Navegador-main\Navegador-main\Mondongo Browser\obj\Debug\Mondongo_Browser.Properties.Resources.resources
+C:\Users\Rosanna M\Downloads\Navegador-main\Navegador-main\Mondongo Browser\obj\Debug\Minav.csproj.GenerateResource.cache
+C:\Users\Rosanna M\Downloads\Navegador-main\Navegador-main\Mondongo Browser\obj\Debug\Minav.csproj.CoreCompileInputs.cache
+C:\Users\Rosanna M\Downloads\Navegador-main\Navegador-main\Mondongo Browser\obj\Debug\Mondongo Browser.exe
+C:\Users\Rosanna M\Downloads\Navegador-main\Navegador-main\Mondongo Browser\obj\Debug\Mondongo Browser.pdb
